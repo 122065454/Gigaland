@@ -1,0 +1,41 @@
+Gigaland 1.5.4
+New added to "create" page: price method tab and datepicker
+Fixes for navigation on small screens
+
+Gigaland 1.5.3
+New added: alternative explore pages (light, dark and grey)
+
+Gigaland 1.5.2
+New added: grey homepage 3
+
+Gigaland 1.5.1
+New added: grey homepage 2
+
+Gigaland 1.5
+New added: grey scheme pages (9 pages)
+Some styling improvements
+
+Gigaland 1.4
+New added: wallet pages (light, dark and grey)
+
+Gigaland 1.3
+New added: grey homepage
+New theme style added (de-grey.css)
+
+Gigaland 1.2
+New added: homepage 4 dark
+New arrow navigation for carousel
+
+Gigaland 1.1
+New added: Homepage 4
+New item carousel big
+New scheme color
+
+Gigaland 1.0.2
+New added: "Create" page (light & dark)
+New font styles
+Some styling improvements
+
+Gigaland 1.0.1
+- New added items carousel
+- New countdown styling
